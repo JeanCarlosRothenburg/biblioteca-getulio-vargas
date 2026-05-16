@@ -13,3 +13,7 @@ Fornece um gerenciamento de estado robusto, eficiente e com baixo *boilerplate*;
 Fornece um conjunto de componentes modernos e customizáveis.
 
 HTML Semântico
+
+### Embla Carousel Autoplay
+
+Movimento automático de itens do carousel
